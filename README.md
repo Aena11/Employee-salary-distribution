@@ -1,2 +1,2 @@
 # Employee-salary-distribution
-blockchain based decentrilized application where we can distribute salary of multiple employee at once by using there addressess using metamask.
+blockchain-based decentralized application where we can distribute the salary of multiple employees at once by using their addresses using metamask.
